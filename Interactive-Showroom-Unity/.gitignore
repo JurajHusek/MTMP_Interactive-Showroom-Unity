@@ -21,6 +21,8 @@ Assets/Standard Assets.meta
 /Assets/Simple Fantasy GUI.meta
 /Assets/Clean Vector Icons.meta
 /Assets/flag.meta
+/Assets/FC Pirate Music Pack [Lite]/**
+/Assets/FC Pirate Music Pack [Lite].meta
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
