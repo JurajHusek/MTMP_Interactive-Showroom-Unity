@@ -15,6 +15,12 @@
 /Assets/Standard Assets/**
 Assets/PolygonPirates.meta
 Assets/Standard Assets.meta
+/Assets/Clean Vector Icons/**
+/Assets/flag/**
+/Assets/Simple Fantasy GUI/**
+/Assets/Simple Fantasy GUI.meta
+/Assets/Clean Vector Icons.meta
+/Assets/flag.meta
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
