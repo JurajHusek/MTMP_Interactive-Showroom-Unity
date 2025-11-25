@@ -23,6 +23,8 @@ Assets/Standard Assets.meta
 /Assets/flag.meta
 /Assets/FC Pirate Music Pack [Lite]/**
 /Assets/FC Pirate Music Pack [Lite].meta
+/Assets/Free Stylized Skybox/**
+/Assets/Free Stylized Skybox.meta
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta

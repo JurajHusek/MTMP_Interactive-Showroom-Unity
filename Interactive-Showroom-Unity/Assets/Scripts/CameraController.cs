@@ -106,7 +106,7 @@ public class CameraController : MonoBehaviour
             up.z = 0;
             up.Normalize();
 
-            targetPosition += up * moveSpeed * Time.deltaTime;
+            targetPosition += moveSpeed * Time.deltaTime * up;
         }
     }
     private void HandleRotation()
