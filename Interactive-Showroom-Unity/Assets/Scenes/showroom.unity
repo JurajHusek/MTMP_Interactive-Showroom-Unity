@@ -6681,13 +6681,13 @@ MonoBehaviour:
   mainMenu: {fileID: 51769782}
   infoPanel: {fileID: 1565672744}
   autoTargets:
-  - {fileID: 263822764}
-  - {fileID: 1638198486}
   - {fileID: 1386733637}
+  - {fileID: 1638198486}
+  - {fileID: 263822764}
   - {fileID: 1976530040}
-  - {fileID: 530299181}
-  - {fileID: 576770666}
   - {fileID: 1104380553}
+  - {fileID: 576770666}
+  - {fileID: 530299181}
   - {fileID: 1733834284}
   infoPanels:
   - {fileID: 2073524322}
@@ -17997,7 +17997,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1616705903}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 782549889}
+        m_TargetAssemblyTypeName: ShowroomManager, Assembly-CSharp
+        m_MethodName: QuitShowroom
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1621109002
 GameObject:
   m_ObjectHideFlags: 0
